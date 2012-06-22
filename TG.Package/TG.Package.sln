@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionTest", "Test\Encr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressionTest", "Test\CompressTest\CompressionTest.csproj", "{C1D9D94C-67D1-4FCC-95AC-4B17C401B5C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TG.Package.Lottery", "TG.Package.Lottery\TG.Package.Lottery.csproj", "{F724CD3E-4AAA-4C86-B606-49C48CC0C1E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LotteryTest", "Test\LotteryTest\LotteryTest.csproj", "{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,36 @@ Global
 		{C1D9D94C-67D1-4FCC-95AC-4B17C401B5C2}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{C1D9D94C-67D1-4FCC-95AC-4B17C401B5C2}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{C1D9D94C-67D1-4FCC-95AC-4B17C401B5C2}.Release|x86.ActiveCfg = Release|Any CPU
+		{F724CD3E-4AAA-4C86-B606-49C48CC0C1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F724CD3E-4AAA-4C86-B606-49C48CC0C1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F724CD3E-4AAA-4C86-B606-49C48CC0C1E1}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F724CD3E-4AAA-4C86-B606-49C48CC0C1E1}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F724CD3E-4AAA-4C86-B606-49C48CC0C1E1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F724CD3E-4AAA-4C86-B606-49C48CC0C1E1}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{F724CD3E-4AAA-4C86-B606-49C48CC0C1E1}.Default|Any CPU.Build.0 = Debug|Any CPU
+		{F724CD3E-4AAA-4C86-B606-49C48CC0C1E1}.Default|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F724CD3E-4AAA-4C86-B606-49C48CC0C1E1}.Default|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F724CD3E-4AAA-4C86-B606-49C48CC0C1E1}.Default|x86.ActiveCfg = Debug|Any CPU
+		{F724CD3E-4AAA-4C86-B606-49C48CC0C1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F724CD3E-4AAA-4C86-B606-49C48CC0C1E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F724CD3E-4AAA-4C86-B606-49C48CC0C1E1}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F724CD3E-4AAA-4C86-B606-49C48CC0C1E1}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F724CD3E-4AAA-4C86-B606-49C48CC0C1E1}.Release|x86.ActiveCfg = Release|Any CPU
+		{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1}.Default|Any CPU.Build.0 = Debug|Any CPU
+		{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1}.Default|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1}.Default|Mixed Platforms.Build.0 = Debug|Any CPU
+		{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1}.Default|x86.ActiveCfg = Debug|Any CPU
+		{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +152,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{83081099-F74A-42A7-85F8-C41CDD0F2FBC} = {B522830C-14CC-4611-9607-D42F020D104E}
 		{C1D9D94C-67D1-4FCC-95AC-4B17C401B5C2} = {B522830C-14CC-4611-9607-D42F020D104E}
+		{50A7C33A-E6D9-457E-8B5F-6F1CBCEEF9B1} = {B522830C-14CC-4611-9607-D42F020D104E}
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = ConsolView\ConsolView.csproj
