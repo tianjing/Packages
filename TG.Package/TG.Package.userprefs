@@ -1,0 +1,41 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="e:\kingpan\测试项目\TG.Package\Test\EncryptionTest\AESEncryptorTest.cs">
+    <Files>
+      <File FileName="e:\kingpan\测试项目\TG.Package\Test\EncryptionTest\AESEncryptorTest.cs" Line="15" Column="28" />
+      <File FileName="ConsolView\Main.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Test" expanded="True">
+            <Node name="EncryptionTest" expanded="True">
+              <Node name="AESEncryptorTest.cs" selected="True" />
+            </Node>
+          </Node>
+          <Node name="ConsolView" expanded="True" />
+          <Node name="TG.Package.Encryption" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True">
+          <Node name="Test" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\kingpan\测试项目\TG.Package\Test\EncryptionTest\RasEncryptorTest.cs" line="14" />
+      <Breakpoint file="e:\kingpan\测试项目\TG.Package\Test\EncryptionTest\AESEncryptorTest.cs" line="17" />
+      <Breakpoint file="E:\kingpan\测试项目\TG.Package\TG.Package.Encryption\AESEncryptor.cs" line="152" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
